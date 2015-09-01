@@ -4,10 +4,16 @@ body {
   font-family: Source Sans Pro;
 }
 
+.container {
+  margin-bottom: 5rem;
+}
+
 h1 { font-family: Josefin Slab; font-weight: 700; color: #000;}
 
+
+
 .sup {
-  font-weight: 600; font-size: 1.125rem; color: #ffa880; text-indent: 0rem;
+  font-weight: 600; font-size: 1.125rem; color: #000;
 }
 
 p {
